@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>صفحة شخصية - إصلاح الهواتف الذكية</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        header {
+            text-align: center;
+            padding: 10px 0;
+            border-bottom: 2px solid #ddd;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        .section {
+            margin: 20px 0;
+        }
+        .section h2 {
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+        }
+        .contact-info {
+            list-style: none;
+            padding: 0;
+        }
+        .contact-info li {
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            border-top: 2px solid #ddd;
+            margin-top: 20px;
+        }
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>خدمات إصلاح الهواتف الذكية</h1>
+        </header>
+        
+        <div class="section">
+            <h2>من نحن</h2>
+            <p>مرحبا! أنا [اسمك]، متخصص في إصلاح الهواتف الذكية. أقدم خدمات إصلاح سريعة وموثوقة لجميع أنواع الهواتف. سواء كانت مشكلتك تتعلق بالشاشة أو البطارية أو أي مشكلة أخرى، فأنا هنا لمساعدتك.</p>
+        </div>
+        
+        <div class="section">
+            <h2>الخدمات</h2>
+            <ul>
+                <li>إصلاح الشاشات المتكسرة</li>
+                <li>استبدال البطاريات</li>
+                <li>إصلاح مشاكل الصوت</li>
+                <li>إصلاح مشاكل الكاميرا</li>
+                <li>تشخيص المشكلات العامة</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>معلومات الاتصال</h2>
+            <ul class="contact-info">
+                <li>رقم الهاتف: [رقم الهاتف]</li>
+                <li>البريد الإلكتروني: <a href="mailto:[البريد الإلكتروني]">[البريد الإلكتروني]</a></li>
+                <li>العنوان: [عنوان المحل أو المكان]</li>
+                <li>تابعنا على: <a href="[رابط الفيسبوك]" target="_blank">فيسبوك</a> | <a href="[رابط تويتر]" target="_blank">تويتر</a></li>
+            </ul>
+        </div>
+        
+        <footer>
+            <p>&copy; 2024 [اسمك]. جميع الحقوق محفوظة.</p>
+        </footer>
+    </div>
+</body>
+</html>
